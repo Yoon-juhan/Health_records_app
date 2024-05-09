@@ -13,3 +13,6 @@
 <br>
 
 ## 프로젝트 소개
+- 시니어 세대들이 자신의 건강 상태를 쉽고 편하게 기록할 수 있는 앱
+<img src="https://github.com/Yoon-juhan/Health_records_app/assets/108213439/f86a64a2-645a-4780-bbbd-e4f6aeafb495" height=500>
+
