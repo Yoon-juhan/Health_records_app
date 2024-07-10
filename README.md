@@ -9,7 +9,7 @@
 - 프로젝트명 : Blah Blah
 - 개발 기간 : 2023.06 ~ 2023.07
 - 팀 인원 : 4명
-- 맡은 업무 : UI 디자인
+- 맡은 업무 : UI 디자인 및 개발
 - 기술 스택 : Flutter, Dart, Android Studio
 <br>
 
